@@ -33,3 +33,11 @@ Rien de très compliqué avec c'est outil, il permet de centraliser les configur
 
 
 ![Alt text](350.PNG)
+
+
+
+
+````Spring Cloud permet d'accélérer grandement le développement d'une architecture micro-services, en proposant en plus des outils comme Zuul et Eureka, qui facilitent l'utilisation des services, leur sécurisation, et leur configuration.
+
+
+Il est également possible d'ajouter Spring Security pour gérer la sécurité, ainsi le passage des sessions utilisateur entre les services.
